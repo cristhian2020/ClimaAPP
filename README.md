@@ -3,12 +3,8 @@
 Una aplicación web sencilla desarrollada con **React + TypeScript**, que permite buscar ciudades y visualizar el clima actual y el pronóstico para los próximos 7 días. Utiliza la API gratuita de [Open-Meteo](https://open-meteo.com/).
 
 ---
-
-## 📸 Captura de Pantalla
-
-![WeatherApp Screenshot](./screenshot.png)
-
----
+## Deploy en vercel
+- [Deploy](https://clima-app-xi-liard.vercel.app/)
 
 ## 🚀 Funcionalidades
 
